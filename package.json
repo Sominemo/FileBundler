@@ -1,0 +1,16 @@
+{
+  "name": "bundler",
+  "version": "2.0.3",
+  "description": "Electro Air CMD bundler",
+  "main": "bundler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sominemo",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jszip": "^3.2.1",
+    "path": "^0.12.7"
+  }
+}
